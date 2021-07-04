@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": null,
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liquid.format": false,
+  "[liquid]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  }
+}

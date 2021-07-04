@@ -1,6 +1,33 @@
 {
-  "current": "Default",
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {}
+      },
+      "1625417078b5dc5b0c": {
+        "type": "hero",
+        "settings": {
+          "title": "Ah pues deja de joder",
+          "description": "<p>Sí jodes concheturame<\/p>",
+          "button_label": "Click me!",
+          "button_link": ""
+        }
+      },
+      "1625417118dc83327f": {
+        "type": "featured-collection",
+        "settings": {
+          "featured_collection": "camisas",
+          "title": "Featured Collection"
+        }
+      }
+    },
+    "content_for_index": [
+      "1625417078b5dc5b0c",
+      "1625417118dc83327f"
+    ]
+  },
   "presets": {
-    "Default": { }
+    "Default": {}
   }
 }
